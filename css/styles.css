@@ -109,20 +109,7 @@ h1{
   padding: 3% 2%;
 }
 
-@media (max-width: 1000px) {
 
-  #title{
-    text-align: center;
-  }
-  .iphone{
-    position: static;
-    width: 60%;
-    transform: rotate(0);
-  }
-  .press-img{
-    width: 15%;
-  }
-}
 
  /* call to action */
  h3{
@@ -146,4 +133,27 @@ h1{
 
 .logos{
   margin: 10% 1% 2%;
+}
+@media (max-width: 1000px) {
+
+  #title{
+    text-align: center;
+  }
+  .iphone{
+    position: static;
+    width: 60%;
+    transform: rotate(0);
+  }
+  .press-img{
+    width: 12%;
+  }
+  h3{
+    font-size: 1.75rem;
+  }
+  h1{
+    font-size: 3rem;
+  }
+  .card-body{
+    width: 3%
+  }
 }
