@@ -154,6 +154,7 @@ h1{
     font-size: 3rem;
   }
   .card-body{
-    width: 3%
+    width: 50%;
+    flex-direction: column-reverse; 
   }
 }
