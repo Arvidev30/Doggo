@@ -152,9 +152,10 @@ h1{
   }
   h1{
     font-size: 3rem;
+    margin-left: -3%
   }
   .card-body{
     width: 50%;
-    flex-direction: column-reverse; 
+    flex-direction: row;
   }
 }
