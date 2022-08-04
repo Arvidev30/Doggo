@@ -154,6 +154,10 @@ h1{
     font-size: 3rem;
     margin-left: -3%
   }
+
+}
+
+@media (max-width: 500px) {
   .card-body{
     width: 50%;
     flex-direction: row;
