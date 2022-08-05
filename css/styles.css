@@ -161,10 +161,10 @@ h1{
   h3{
     font-size: 1rem;
   }
-  .card{
+  /* .card{
 
     flex-direction: row;
-  }
+  } */
 
   .head{
     padding-left: -2%;
