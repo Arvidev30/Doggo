@@ -168,4 +168,11 @@ h1{
   .head{
     padding-left: -2%;
   }
+  .row{
+    margin-left: -50px;
+  }
+  .card-header{
+    margin-top: 50%;
+    background-color: #fff;
+  }
 }
