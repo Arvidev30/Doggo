@@ -169,11 +169,11 @@ h1{
   .head{
     padding-left: -2%;
   }
-  .row{
-    margin-left: -50px;
-  }
-  .card-header{
+  /* .row{
+    margin-left: -30px;
+  } */
+  /* .card-header{
     margin-top: 50%;
     background-color: #fff;
-  }
+  } */
 }
